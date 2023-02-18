@@ -1,4 +1,17 @@
-### Hi there 👋
+<div id="header" align="center">
+  <h1>Hi there, I'm William 👋</h1>
+  <p><b>Fullstack Software Developer Student</b></p>
+</div>
+<!--
+<div id="badges" align="center">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
+</div>
+-->
+<!-- <img src="https://komarev.com/ghpvc/?username=WBexte&style=flat-square&color=blue" alt=""/> -->
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Goqwin.visitor-badge) ![GitHub followers](https://img.shields.io/github/followers/Goqwin.svg?style=social&label=Follow&maxAge=2592000)
+
+
+
 
 <!--
 **WBexte/WBexte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
