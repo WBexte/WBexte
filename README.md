@@ -8,7 +8,7 @@
 </div>
 -->
 <!-- <img src="https://komarev.com/ghpvc/?username=WBexte&style=flat-square&color=blue" alt=""/> -->
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Goqwin.visitor-badge) ![GitHub followers](https://img.shields.io/github/followers/Goqwin.svg?style=social&label=Follow&maxAge=2592000)
+
 
 
 
