@@ -1,13 +1,17 @@
+<div id="view-counter">
+  <img src="https://komarev.com/ghpvc/?username=WBexte&style=flat-square&color=blue" alt=""/>
+</div>
+
+<div id="badges" align="center">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
+</div>
+
 <div id="header" align="center">
   <h1>Hi there, I'm William 👋</h1>
   <p><b>Fullstack Software Developer Student</b></p>
 </div>
-<!--
-<div id="badges" align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
-</div>
--->
-<!-- <img src="https://komarev.com/ghpvc/?username=WBexte&style=flat-square&color=blue" alt=""/> -->
+
+### :lightbulb:
 
 
 
