@@ -19,7 +19,7 @@
 ### 💡About Me  
 <div align="inline-block">
   <ul>
-    <li>💻 Currently working as a technical specialist for Newton Crypto</li>
+    <li>💻 Currently working as a Software Developer for Newton Crypto</li>
     <li>🪙 Passion for Web 3 and blockchain technology</li>
     <li>👨‍💻 Software Development Student at Southern Alberta Institute of Technology</li>
     <li>✉️ Reach me at <b>wbexte@gmail.com</b></li>
