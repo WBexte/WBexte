@@ -10,7 +10,7 @@
 
 <div id="header" align="center">
   <p>Hi there, I'm William 👋</p>
-  <p><b>Fullstack Software Development Student</b></p>
+  <p><b>Senior Software Developer</b></p>
 </div>
 
 ---
@@ -19,21 +19,11 @@
 ### 💡About Me  
 <div align="inline-block">
   <ul>
-    <li>💻 Currently working as a Software Developer for Newton Crypto</li>
+    <li>💻 Currently working as a Senior Software Developer for Newton Crypto</li>
     <li>🪙 Passion for Web 3 and blockchain technology</li>
-    <li>👨‍💻 Software Development Student at Southern Alberta Institute of Technology</li>
     <li>✉️ Reach me at <b>wbexte@gmail.com</b></li>
   </ul>
 </div>
-
----
-
-### 📖 Current Courses:
-<ul>
-  <li>Object Oriented Programming II</li>
-  <li>Database Design and Programming</li>
-  <li>Software Analysis and Design (UML)</li>
-</ul>
 
 ---
 
